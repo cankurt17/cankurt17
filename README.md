@@ -12,6 +12,7 @@
   </a> 
 <img src="https://komarev.com/ghpvc/?username=cankurt17&style=flat-square&color=blue" alt=""/>
 </div>   
+![](https://komarev.com/ghpvc/?username=cankurt17)
 
 <!-- <h1>
   hey there
