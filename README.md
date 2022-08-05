@@ -17,10 +17,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=cankurt17&style=flat-square&color=blue" alt=""/>   
   
-<p>
+<h6>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</p>
+</h6>
   
 
 <div/> 
