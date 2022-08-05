@@ -1,4 +1,5 @@
-<div >
+
+<div align="center">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -14,10 +15,9 @@
 
 </div> 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=cankurt17&style=flat-square&color=blue" alt=""/>  
-<div/>
+<img src="https://komarev.com/ghpvc/?username=cankurt17&style=flat-square&color=blue" alt=""/>   
 
+<div/>
 
 <!-- <h1>
   hey there
@@ -59,4 +59,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cankurt17&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div/>
