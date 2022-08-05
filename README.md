@@ -10,6 +10,7 @@
   <a href="https://cankurt.dev/">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=web&logoColor=white" alt="Website Badge"/>
   </a> 
+  
   <img src="https://komarev.com/ghpvc/?username=cankurt17&style=flat-square&color=blue" alt=""/>
 
 </div> 
