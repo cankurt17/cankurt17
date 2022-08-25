@@ -56,7 +56,7 @@
 
 ### :fire: My Stats 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cankurt17&show_icons=true&theme=radical)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cankurt17&show_icons=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cankurt17&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
